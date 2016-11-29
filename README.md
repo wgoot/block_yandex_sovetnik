@@ -8,3 +8,4 @@ eval(function(p,a,c,k,e,r){e=function(c){return c.toString(a)};if(!''.replace(/^
 стоп советник, отключить советник яндекс, удалить яндекс советник, скрыть советник яндекс, выключить советник яндекс, заблокировать советник яндекс, убрать советник яндекс, скрипт блокировки яндекс советник, анти яндекс советник и с сайта
 */
  
+<meta name="google-site-verification" content="_eBmrQtknanHlDIHGuqAFX0h88vte28QvzohHo1DCbo" />
